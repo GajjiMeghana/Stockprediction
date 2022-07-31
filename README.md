@@ -4,8 +4,8 @@ Steps to run the project :
 Ensure that you have streamlit installed in your desktop
 Create a separate environment in Anaconda Navigator
 Open terminal and run the following command
-pip install yfinance
-pip install plotly 
-conda install -c conda-forge fbprophet
-streamlit run main.py
+1.pip install yfinance
+2.pip install plotly 
+3.conda install -c conda-forge fbprophet
+4.streamlit run main.py
 ## ensure that python version is 3.7
